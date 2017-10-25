@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chowyunbrent/CSC8604-gpio/issues"
   },
-  "homepage": "https://github.com/chowyunbrent/CSC8604-gpio#readme"
+  "homepage": "https://github.com/chowyunbrent/CSC8604-gpio#readme",
+  "dependencies": {
+    "wiring-pi": "^2.2.1"
+  }
 }
