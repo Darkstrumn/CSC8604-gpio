@@ -1,0 +1,20 @@
+{
+  "name": "CSC8604-gpio",
+  "version": "1.0.0",
+  "description": "Node project for GPIO on the Rasperrry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chowyunbrent/CSC8604-gpio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chowyunbrent/CSC8604-gpio/issues"
+  },
+  "homepage": "https://github.com/chowyunbrent/CSC8604-gpio#readme"
+}
